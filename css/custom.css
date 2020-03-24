@@ -1,5 +1,13 @@
 /*AVATAR*/
 
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #a41a25;
+  border-radius: 50%;
+  display: inline-block;
+}
+
 .avatar {
   width: 40px;
   border-radius: 50%;
@@ -404,20 +412,21 @@ h1 span {
 
 .legend {
   position: fixed;
-  top: 4rem;
+  top: 6rem;
   right: .5rem;
   width: 6em;
   height: 9rem;
   z-index: 4;
 }
 
-.legend-header {
+/*.legend-header {
   width: 100%;
+  visibility: hidden;
   font-size: .7rem;
   font-weight: 600;
   text-transform: uppercase;
   text-align: right;
-}
+}*/
 
 .legend ul {
   list-style: none;
@@ -449,7 +458,7 @@ h1 span {
   display: block;
   width: 20px;
   height: 0;
-  border-top: 1px dotted #fff;
+  border-top: 1px dotted #333;
 }
 
 .legend ul .label-val {
@@ -457,7 +466,7 @@ h1 span {
   margin-right: .3rem;
   font-size: .7rem;
   line-height: 1;
-  color: #fff;
+  color: #333;
 }
 
 .new-cases {
@@ -1100,20 +1109,20 @@ button:focus, button:hover {
   }
 
   .legend {
-    padding: 1rem 0;
     top: auto;
-    bottom: 10rem;
+    bottom: 0.5rem;
     right: 1rem;
-    width: 11rem;
+    width: 15rem;
     height: 11.5rem;
     border-radius: .2rem;
-    background-color: rgba(70,70,70,.8);
+    /*background-color: rgba(70,70,70,.8);*/
   }
 
-  .legend-header {
+/*  .legend-header {
+    visibility: visible;
     text-align: center;
     font-size: .8rem;
-  }
+  }*/
 
   .legend ul li {
     left: 1rem;
@@ -1133,10 +1142,11 @@ button:focus, button:hover {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100px;
+    width: 100%;
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
+    padding-right: 3rem;
   }
 
   .new-cases .label {
@@ -1148,13 +1158,14 @@ button:focus, button:hover {
     display: block;
     flex: 1;
     height: 0;
-    border-top: 1px dotted #fff;
+    border-top: 1px dotted #333;
   }
 
   .legend ul .label-val, .new-cases .label-val {
-    margin-right: .5rem;
+    margin-right: 4rem;
     text-align: right;
-    width: 2rem;
+    width: 20rem;
+    color: #333;
   }
 
   .new-cases .circle {
