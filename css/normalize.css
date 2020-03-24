@@ -13,12 +13,13 @@ html {
   overflow: auto;
 }
 
-html, body, div, iframe
+html, body, iframe
 {
  margin: 0px;
  padding: 0px;
  height: 100%;
  border: none;
+ margin-top: 50px;
 }
 
 /**
@@ -32,6 +33,7 @@ body {
 iframe
 {
  display: block;
+ height: 100%;
  width: 100%;
  border: none;
  overflow-y: auto;
