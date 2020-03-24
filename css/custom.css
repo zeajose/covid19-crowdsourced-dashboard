@@ -1094,7 +1094,7 @@ button:focus, button:hover {
     bottom: auto;
     left: auto;
     right: auto;
-    margin-right: 2rem;
+    margin-right: 1rem;
   }
 
   .map-container {
