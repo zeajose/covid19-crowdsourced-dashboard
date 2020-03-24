@@ -417,7 +417,7 @@ h1 span {
   width: 6em;
   height: 9rem;
   z-index: 4;
-  visibility: hidden;
+  /*visibility: hidden;*/
 }
 
 .modal-backdrop {
@@ -1116,7 +1116,7 @@ button:focus, button:hover {
     width: 15rem;
     height: 11.5rem;
     border-radius: .2rem;
-    visibility: visible;
+    /*visibility: visible;*/
     /*background-color: rgba(70,70,70,.8);*/
   }
 
