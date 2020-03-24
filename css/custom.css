@@ -420,6 +420,10 @@ h1 span {
   visibility: hidden;
 }
 
+.modal-backdrop {
+  z-index: 2 !important;
+}
+
 /*.legend-header {
   width: 100%;
   visibility: hidden;
@@ -720,6 +724,7 @@ input[type=range]::-ms-tooltip {
 .modal-body {
   max-height: calc(112vh - 210px);
   overflow-y: auto;
+  z-index:
 }
 
 .logos {
@@ -917,11 +922,6 @@ button:focus, button:hover {
 
   }
 
-  .modal-body {
-/*    max-height: calc(100vh - 210px);*/
-    overflow-y: auto;
-  }
-
 }
 
 
@@ -994,7 +994,7 @@ button:focus, button:hover {
 
 @media only screen and (min-width: 700px) and (min-height: 415px) {
 
-  .modal {
+  .modal-body {
     max-height: calc(115vh - 210px) !important;
   }
 
