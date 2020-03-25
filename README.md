@@ -1,8 +1,8 @@
-# covid19-crowdsourced-dashboard
+# Early detection of Covid-19 outbreaks in Colombia
 
 ## Live demo
-* Realtime dashboard of peoples self-report in Latam live: https://www.covid19enlatam.com/ <br>
-* Report yourself (Spanish only): https://www.covid19enlatam.com/reportate.html <br>
+* Realtime dashboard: https://www.covid19enlatam.com/ <br>
+* Report yourself here: https://www.covid19enlatam.com/reportate.html <br>
 
 
 
