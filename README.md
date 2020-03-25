@@ -1,5 +1,6 @@
-# covid19-crowdsourced-dashboard
-Realtime dashboard of peoples self-report in Latam live: https://www.covid19enlatam.com/
+# Early detection of Covid-19 outbreaks in Colombia
+Realtime dashboard: https://www.covid19enlatam.com/
+Report yourself (Spanish only): https://www.covid19enlatam.com/reportate.html
 
 
 <br><br>
@@ -20,5 +21,5 @@ Realtime dashboard of peoples self-report in Latam live: https://www.covid19enla
 * Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 * Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
 * Jhon Hopkins Covid-19 Dashboard: https://github.com/CSSEGISandData/COVID-19
-* Ministry of Health Colombia: https://www.minsalud.gov.co/salud/publica/PET/Paginas/Covid-19_copia.aspx
+* Ministry of Health Colombia: https://www.ins.gov.co/Noticias/Paginas/Coronavirus2.aspx
 * Health Instute of Colombia: https://www.minsalud.gov.co/salud/publica/PET/Paginas/Covid-19_copia.aspx
