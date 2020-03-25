@@ -4,6 +4,23 @@
 * Realtime dashboard: https://www.covid19enlatam.com/ <br>
 * Report yourself here: https://www.covid19enlatam.com/reportate.html <br>
 
+## ScreenShots
+
+<div>
+Homepage
+<img src="screenshots/dashboard.png" />
+ 
+Confirmed
+<img src="screenshots/confirmado.png" />
+
+Suspected
+<img src="screenshots/sospechoso.png" />
+ 
+Report
+<img src="screenshots/reporte.png" />
+
+<div>
+
 ## Data Sources:
 * World Health Organization (WHO): https://www.who.int/ <br>
 * DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia.  <br>
