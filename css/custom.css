@@ -1113,7 +1113,7 @@ button:focus, button:hover {
     top: auto;
     bottom: 0.5rem;
     right: 1rem;
-    width: 15rem;
+    width: 20rem;
     height: 11.5rem;
     border-radius: .2rem;
     /*visibility: visible;*/
@@ -1168,6 +1168,7 @@ button:focus, button:hover {
     text-align: right;
     width: 20rem;
     color: #333;
+    font-size: 1rem;
   }
 
   .new-cases .circle {
