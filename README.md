@@ -1,6 +1,6 @@
 # Early detection of Covid-19 outbreaks in Colombia
 
-## Live demo
+# Live demo
 * Realtime dashboard: https://www.covid19enlatam.com/ <br>
 * Report yourself here: https://www.covid19enlatam.com/reportate.html <br>
 
