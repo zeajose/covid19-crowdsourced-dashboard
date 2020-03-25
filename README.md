@@ -20,3 +20,5 @@ Realtime dashboard of peoples self-report in Latam live: https://www.covid19enla
 * Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 * Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
 * Jhon Hopkins Covid-19 Dashboard: https://github.com/CSSEGISandData/COVID-19
+* Ministry of Health Colombia: https://www.minsalud.gov.co/salud/publica/PET/Paginas/Covid-19_copia.aspx
+* Health Instute of Colombia: https://www.minsalud.gov.co/salud/publica/PET/Paginas/Covid-19_copia.aspx
