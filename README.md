@@ -1,13 +1,10 @@
 # Early detection of Covid-19 outbreaks in Colombia
 
-### Live demo
+## Live demo
 * Realtime dashboard: https://www.covid19enlatam.com/ <br>
 * Report yourself here: https://www.covid19enlatam.com/reportate.html <br>
 
-
-
-<br><br>
-<b>Data Sources:</b><br>
+## Data Sources:
 * World Health Organization (WHO): https://www.who.int/ <br>
 * DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia.  <br>
 * BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/  <br>
