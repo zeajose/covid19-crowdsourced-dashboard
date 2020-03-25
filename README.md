@@ -1,7 +1,9 @@
 # covid19-crowdsourced-dashboard
 
 ## Live demo
-* Realtime dashboard of peoples self-report in Latam live: https://www.covid19enlatam.com/
+* Realtime dashboard of peoples self-report in Latam live: https://www.covid19enlatam.com/ <br>
+* Report yourself (Spanish only): https://www.covid19enlatam.com/reportate.html <br>
+
 
 
 <br><br>
