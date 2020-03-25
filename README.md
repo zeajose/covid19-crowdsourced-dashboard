@@ -8,16 +8,16 @@
 
 <div>
 Homepage
-<img src="imagess/dashboard.png" />
+<img src="images/dashboard.png" />
  
 Confirmed
-<img src="imagess/confirmado.png" />
+<img src="images/confirmado.png" />
 
 Suspected
-<img src="imagess/sospechoso.png" />
+<img src="images/sospechoso.png" />
  
 Report
-<img src="imagess/reporte.png" />
+<img src="images/reporte.png" />
 
 <div>
 
