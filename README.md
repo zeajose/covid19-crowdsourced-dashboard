@@ -21,6 +21,11 @@ Report
 
 <div>
 
+## Results:
+* 9,324 total users in 1 month <br>
+* 12,024 total georeference cases from all sources <br>
+* 1 media cover:   <br>
+
 ## Data Sources:
 * World Health Organization (WHO): https://www.who.int/ <br>
 * DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia.  <br>
