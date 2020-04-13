@@ -23,7 +23,7 @@ Report
 
 ## Results:
 * 9,324 total users in 1 month <br>
-* 12,024 total georeference cases from all sources <br>
+* 12,024 total georeference cases from public and private sources <br>
 * 1 media cover:   <br>
 
 ## Data Sources:
