@@ -21,10 +21,11 @@ Report
 
 <div>
 
-## Results:
-* 9,324 total users in 1 month <br>
+## Results in one month:
+* 79,685 total users reached <br>
+* 9,324 total contributors <br>
 * 12,024 total georeference cases from public and private sources <br>
-* 1 media cover:   <br>
+* 1 media cover: https://www.publimetro.co/co/noticias/2020/04/02/emprendimientos-colombianos-proposito-la-crisis-coronavirus.html  <br>
 
 ## Data Sources:
 * World Health Organization (WHO): https://www.who.int/ <br>
